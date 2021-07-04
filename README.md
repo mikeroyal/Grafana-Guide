@@ -19,7 +19,7 @@ Grafana Guide
 
 4. [Kubernetes](https://github.com/mikeroyal/Grafana-Guide#kubernetes)
 
-5. [Docker Development](https://github.com/mikeroyal/Grafana-Guide#docker-tools)
+5. [Docker Development](https://github.com/mikeroyal/Grafana-Guide#docker-development)
 
 6. [Networking](https://github.com/mikeroyal/Grafana-Guide#networking)
 
